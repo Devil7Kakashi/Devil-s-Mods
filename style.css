@@ -23,33 +23,6 @@ h2 + p {
   color: #808080;
 }
 
-h3 {
-  font-size: 60px;
-  color: #000000;
-}
-h3 + p {
-  font-size: 50px;
-  color: #808080;
-}
-
-h4 {
-  font-size: 60px;
-  color: #000000;
-}
-h4 + p {
-  font-size: 50px;
-  color: #808080;
-}
-
-h5 {
-  font-size: 60px;
-  color: #000000;
-}
-h5 + p {
-  font-size: 50px;
-  color: #808080;
-}
-
 button {
   background-color: #00ccff;
   color: white;
